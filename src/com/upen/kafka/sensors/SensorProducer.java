@@ -1,4 +1,4 @@
-package com.upen.kafka;
+package com.upen.kafka.sensors;
 
 import java.util.*;
 import org.apache.kafka.clients.producer.*;
